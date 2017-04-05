@@ -8,4 +8,4 @@ Please submit all ideas how to improve these lectures as issues in this reposito
 
 The list of lectures:
 * Lecture 1 - architectural classification, memory hierarchy, computer architectures
-* Lecture 2 - instruction set architecture, architectural consideractions
+* Lecture 2 - instruction set architecture, architectural considerations
