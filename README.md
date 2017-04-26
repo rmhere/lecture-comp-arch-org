@@ -12,3 +12,4 @@ The list of lectures:
 * Lecture 1 - architectural classification, memory hierarchy, computer architectures
 * Lecture 2 - instruction set architecture, architectural considerations
 * Lecture 3 - RISC architecture, MIPS ISA
+* Lecture 4 - CPU, FPGA, ASIC, MIPS assembly language
