@@ -13,4 +13,4 @@ The list of lectures:
 * Lecture 2 - instruction set architecture, architectural considerations
 * Lecture 3 - RISC architecture, MIPS ISA
 * Lecture 4 - CPU, FPGA, ASIC, MIPS assembly language
-* Lecture 5 - memory organization, data types, program execution
+* Lecture 5 - memory organization, data types, program execution, stack
