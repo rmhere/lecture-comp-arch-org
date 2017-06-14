@@ -14,4 +14,4 @@ The list of lectures:
 * Lecture 3 - RISC architecture, MIPS ISA
 * Lecture 4 - CPU, FPGA, ASIC, MIPS assembly language
 * Lecture 5 - memory organization, data types, program execution, stack
-* Lecture 6 - floating point representation, caching
+* Lecture 6 - floating point representation, caching, future of computing
