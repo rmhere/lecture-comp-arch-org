@@ -1,0 +1,1 @@
+g++ -O2 -S hello.cc -o hello.asm
